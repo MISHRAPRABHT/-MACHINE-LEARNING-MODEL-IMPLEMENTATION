@@ -94,3 +94,11 @@ The target for the next week is to experiment with n-gram features and test a Ra
 Conclusion
 The Spam Email Classifier project has successfully delivered a functional prototype, achieving 85% accuracy using logistic regression and TF-IDF features. Key accomplishments include data preprocessing, model training, evaluation with visualizations, and a prediction function for new emails. Challenges such as class imbalance and dataset limitations highlight areas for improvement. Future work will focus on advanced modeling, real-world data integration, and deployment to create a robust and practical spam detection system. The project remains on track, with clear objectives for the next phase to enhance performance and usability.
 
+
+
+
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/7d951b54-fc7c-40ba-960d-8898ad607cdc" />
+![Image](https://github.com/user-attachments/assets/46af047d-fd07-4c2f-8090-2e82426d8846)
+
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/c1940f0a-9ed4-437b-984d-f442a8a5bd95" />
+
